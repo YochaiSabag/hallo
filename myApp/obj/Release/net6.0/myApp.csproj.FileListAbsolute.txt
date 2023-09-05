@@ -1,0 +1,15 @@
+C:\Users\LogIn\Documents\project\myApp\myApp\bin\Release\net6.0\myApp.deps.json
+C:\Users\LogIn\Documents\project\myApp\myApp\bin\Release\net6.0\myApp.dll
+C:\Users\LogIn\Documents\project\myApp\myApp\bin\Release\net6.0\myApp.pdb
+C:\Users\LogIn\Documents\project\myApp\myApp\obj\Release\net6.0\myApp.csproj.AssemblyReference.cache
+C:\Users\LogIn\Documents\project\myApp\myApp\obj\Release\net6.0\myApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LogIn\Documents\project\myApp\myApp\obj\Release\net6.0\myApp.AssemblyInfoInputs.cache
+C:\Users\LogIn\Documents\project\myApp\myApp\obj\Release\net6.0\myApp.AssemblyInfo.cs
+C:\Users\LogIn\Documents\project\myApp\myApp\obj\Release\net6.0\myApp.csproj.CoreCompileInputs.cache
+C:\Users\LogIn\Documents\project\myApp\myApp\obj\Release\net6.0\myApp.dll
+C:\Users\LogIn\Documents\project\myApp\myApp\obj\Release\net6.0\refint\myApp.dll
+C:\Users\LogIn\Documents\project\myApp\myApp\obj\Release\net6.0\myApp.pdb
+C:\Users\LogIn\Documents\project\myApp\myApp\obj\Release\net6.0\ref\myApp.dll
+C:\Users\LogIn\Documents\project\myApp\myApp\bin\Release\net6.0\myApp.exe
+C:\Users\LogIn\Documents\project\myApp\myApp\bin\Release\net6.0\myApp.runtimeconfig.json
+C:\Users\LogIn\Documents\project\myApp\myApp\obj\Release\net6.0\myApp.genruntimeconfig.cache
